@@ -10,4 +10,8 @@ public class Test {
 		
 	};
 	
+	public void me3(){
+		System.out.println("h2");
+	}
+	
 }
