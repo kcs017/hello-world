@@ -10,4 +10,8 @@ public class Test {
 		
 	};
 	
+	public void me2(){
+		
+	};
+	
 }
