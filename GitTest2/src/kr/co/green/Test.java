@@ -6,4 +6,8 @@ public class Test {
 	int c;
 	int d;
 	
+	public void me1(){
+		
+	};
+	
 }
